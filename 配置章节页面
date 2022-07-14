@@ -1,74 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T08:24:42.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="nSQ7fS21Pa4V52siTLy9" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T07:51:28.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="DxoXlXU3e_v4oEBe0xBW" version="20.1.1" type="github">
   <diagram id="J_lYRZWnElPX3zuavMaP" name="Page-1">
-    <mxGraphModel dx="1116" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="510" width="610" height="560" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-35" value="1 配置章节页面&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="540" width="162.5" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-35" value="1 配置章节页面&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="540" width="190" height="220" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-36" value="功能按钮区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="258.75" y="670" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-36" value="功能按钮区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="710" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-37" value="模板编辑区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="258.75" y="590" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-37" value="模板编辑区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="590" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-38" value="关联数据源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="258.75" y="630" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-38" value="关联数据源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="630" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-40" value="2 模板编辑区&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="540" width="162.5" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-39" value="控件联动配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="670" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-41" value="控件列表区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="435.25" y="580" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-40" value="2 模板编辑区&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="540" width="180" height="220" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-42" value="工具栏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="435.25" y="620" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-41" value="控件列表区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="580" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-43" value="模板编辑区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="435.25" y="660" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-42" value="工具栏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="620" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-44" value="控件属性、联动配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="435.25" y="700" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-43" value="模板编辑区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="660" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-45" value="3 关联数据源&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="540" width="142.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-44" value="控件属性、功能配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="700" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-46" value="添加关联数据源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="601.25" y="630" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-45" value="3 关联数据源&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="820" width="150" height="140" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-47" value="已关联数据源列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="601.25" y="590" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-46" value="添加关联数据源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="910" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-48" value="4 控件联动配置&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="238.75" y="760" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-47" value="已关联数据源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="870" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-49" value="控件列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="248.75" y="800" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-48" value="4 控件联动配置&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="432.5" y="820" width="140" height="140" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-50" value="被影响控件列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="248.75" y="840" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-49" value="控件列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="442.5" y="870" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-51" value="5 功能按钮区&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="760" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-50" value="被影响控件列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="442.5" y="910" width="120" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-52" value="发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="424" y="810" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-51" value="5 功能按钮区&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="820" width="130" height="140" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-53" value="暂存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="484" y="810" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-52" value="发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="870" width="50" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-54" value="预览" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="424" y="850" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-53" value="暂存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="662.5" y="870" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-54" value="预览" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="910" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-55" value="退出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="662.5" y="910" width="50" height="30" as="geometry" />
+        <mxCell id="f9Z6r6ZK9r0prSY_iLQs-55" value="退出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="484" y="850" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
