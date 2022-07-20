@@ -1,41 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T09:56:03.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="HIUf2POErkMlcLM2qP3o" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T06:16:36.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="InH21sbLO3hF4adIwyF_" version="20.1.1" type="github">
   <diagram id="BRZJId9HeG8TPaILlbH2" name="Page-1">
     <mxGraphModel dx="782" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fdmOF73nNWurx-i9TdTY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdmOF73nNWurx-i9TdTY-1" target="fdmOF73nNWurx-i9TdTY-3">
+        <mxCell id="-JzzrxpotdRfCdd429ha-1" value="导出文件" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeColor=none;fillColor=#FFF9D4;gradientColor=none;swimlaneFillColor=#FDFFF7;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="400" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="-JzzrxpotdRfCdd429ha-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-JzzrxpotdRfCdd429ha-14" target="-JzzrxpotdRfCdd429ha-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="170" width="60" height="30" as="geometry" />
+        <mxCell id="-JzzrxpotdRfCdd429ha-14" value="" style="ellipse;fillColor=#7EA6E0;strokeColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdmOF73nNWurx-i9TdTY-3" target="fdmOF73nNWurx-i9TdTY-5">
+        <mxCell id="-JzzrxpotdRfCdd429ha-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-JzzrxpotdRfCdd429ha-16" target="-JzzrxpotdRfCdd429ha-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-3" value="可变行表格对应的json数据&lt;br&gt;（遍历数据）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="160" height="40" as="geometry" />
+        <mxCell id="-JzzrxpotdRfCdd429ha-16" value="获取表格数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdmOF73nNWurx-i9TdTY-5" target="fdmOF73nNWurx-i9TdTY-7">
+        <mxCell id="-JzzrxpotdRfCdd429ha-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-JzzrxpotdRfCdd429ha-20" target="-JzzrxpotdRfCdd429ha-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-5" value="json数据转换成table格式，生成字符串str" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="310" width="224" height="30" as="geometry" />
+        <mxCell id="-JzzrxpotdRfCdd429ha-20" value="处理数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="325" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdmOF73nNWurx-i9TdTY-7" target="fdmOF73nNWurx-i9TdTY-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-7" value="URI编译字符串str生成uri" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="380" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdmOF73nNWurx-i9TdTY-9" target="fdmOF73nNWurx-i9TdTY-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fdmOF73nNWurx-i9TdTY-9" value="创建a标签，其href取值为uri，触发a标签点击事件，完成下载操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="450" width="180" height="40" as="geometry" />
+        <mxCell id="-JzzrxpotdRfCdd429ha-21" value="导出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="395" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
